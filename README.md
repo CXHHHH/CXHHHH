@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://github.com/CXHHHH/">Hello, I'm BlackChen 👨‍💻 </a></h1>
 
-<h3 align="center">  Tech Enthusiast | Software Engineer | Love Kobe</h3> <br>
+<h3 align="center">   Software Engineer | Tech Enthusiast | Love Kobe  </h3> <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
