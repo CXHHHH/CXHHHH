@@ -24,6 +24,7 @@
 [![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=222222)](https://github.com/KobeGigi224) 
 [![MySQL](https://img.shields.io/badge/-MySQL-d1ab66?style=flat&logo=mysql&link=https://github.com/KobeGigi224)](https://github.com/KobeGigi224) 
 [![MSSQL](https://img.shields.io/badge/-MS%20SQL-orange?style=flat&logo=Microsoft%20SQL%20Server)](https://github.com/KobeGigi224) 
+[![Oracle](https://img.shields.io/badge/-Oracle-265A8F?style=flat&logo=Oracle)](https://github.com/KobeGigi224) 
 [![SQLite](https://img.shields.io/badge/-SQLite-red?style=flat&logo=SQLite)](https://github.com/KobeGigi224) 
 [![Git](https://img.shields.io/badge/-Git-43a047?style=flat&logo=git&link=https://github.com/KobeGigi224)](https://github.com/KobeGigi224) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/KobeGigi224)](https://github.com/KobeGigi224)
