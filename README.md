@@ -4,8 +4,10 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobeGigi224&hide_border=true">
+
 ### 🤔 About
--  **Working :**  Web Development :computer: | Cloud :cloud: 
+-  **Working :**  Software Development :computer: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
