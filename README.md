@@ -10,8 +10,9 @@
 -  **Working :**  Software Development :computer: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Sports :basketball: | Travel :airplane: | Music :headphones: 
--  **Contact :**  wechat：chen1072802522
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Contact :**  📧 1072802522@qq.com | wx: 13250935676 :telephone_receiver:
+-  **公众号 :** 曼巴国度 :heart: 
+-  **小程序 :** KOBE STORY :heart: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤝🏻 Programming skills
