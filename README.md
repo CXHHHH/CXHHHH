@@ -10,7 +10,7 @@
 -  **Working :**  Software Development :computer: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Sports :basketball: | Travel :airplane: | Music :headphones: 
--  **Contact :**  📧 1072802522@qq.com | wx: 13250935676 :telephone_receiver:
+-  **Contact :**  📧 1072802522@qq.com | WeChat: 13024100531 :telephone_receiver:
 -  **公众号 :** 曼巴国度 :heart: 
 -  **小程序 :** KOBE STORY :heart: 
 
