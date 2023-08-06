@@ -9,11 +9,11 @@
 ### 🤔 About
 -  **Working :**  Software Development :computer: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Sports :basketball: | Travel :airplane: | Music :headphones: 
--  **Contact :**  📧 13024100531@163.com | WeChat: 13024100531 :telephone_receiver:
+-  **Hobbies :** Sports ⚽ | Travel :airplane: | Music :headphones: 
+-  **Contact :** 13024100531@163.com 📧 | WeChat: 13024100531 📱:
+-  **Linkedin :** linkedin.com/in/black-chen-78167a234/ 👨‍💼
 -  **公众号/视频号/抖音/哔哩哔哩 :** 体育改变一切 :heart: 
--  **小程序 :** KOBE STORY :heart: 
-
+-  **小程序 :** KOBE STORY :heart:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤝🏻 Programming skills
