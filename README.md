@@ -10,7 +10,7 @@
 -  **Working :**  Software Development :computer: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Sports ⚽ | Travel :airplane: | Music :headphones: 
--  **Contact :** 13024100531@163.com 📧 | WeChat: 13024100531 📱:
+-  **Contact :** blackchen0531@gmail.com 📧 | WeChat: 13024100531 📱:
 -  **Linkedin :** https://www.linkedin.com/in/blackchen224/ 👨‍💼
 -  **公众号/视频号/抖音/哔哩哔哩 :** 体育改变一切 :heart: 
 -  **小程序 :** KOBE STORY :heart:
